@@ -25,4 +25,4 @@
 * Math对象  无构造函数Math()
 * XMLHttpRequest对象  Ajax中创建的对象
 * arguments对象
-* RegExp对象  正则表达式对象
+* RegExp对象      正则表达式对象
