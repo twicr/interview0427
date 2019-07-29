@@ -16,13 +16,13 @@
 # JS
 ### 简要描述下JS有哪些内置的对象
 * Number对象&nbsp;&nbsp;&nbsp;&nbsp;数字对象
-* String对象  字符串对象
-* Array对象  数组对象
+* String对象&nbsp;&nbsp;&nbsp;&nbsp;字符串对象
+* Array对象&nbsp;&nbsp;&nbsp;&nbsp;数组对象
 * Object对象  
 * Function对象
 * Boolean对象
-* Date对象  时间对象
-* Math对象  无构造函数Math()
-* XMLHttpRequest对象  Ajax中创建的对象
+* Date对象&nbsp;&nbsp;&nbsp;&nbsp;时间对象
+* Math对象&nbsp;&nbsp;&nbsp;&nbsp;无构造函数Math()
+* XMLHttpRequest对象&nbsp;&nbsp;&nbsp;&nbsp;Ajax中创建的对象
 * arguments对象
-* RegExp对象      正则表达式对象
+* RegExp对象&nbsp;&nbsp;&nbsp;&nbsp;正则表达式对象
