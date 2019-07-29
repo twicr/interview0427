@@ -15,7 +15,7 @@
 * grid布局：网格布局
 # JS
 ### 简要描述下JS有哪些内置的对象
-* Number对象  数字对象
+* Number对象&nbsp&nbsp&nbsp&nbsp数字对象
 * String对象  字符串对象
 * Array对象  数组对象
 * Object对象  
